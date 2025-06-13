@@ -1,1 +1,1 @@
-# sfml_c_template
+# sfml_c++_template
